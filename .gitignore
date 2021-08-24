@@ -85,6 +85,8 @@ lint/tmp/
 # lint/reports/
 
 
-#/.idea/*
+# below disable all files under .idea, including the listed lines above.
+.idea/*
+
 .DS_Store
 /captures
